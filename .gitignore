@@ -33,3 +33,9 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# FEM Design Files 
+/design_files/
+
+# FEM Starter Files
+/invoice-app/
